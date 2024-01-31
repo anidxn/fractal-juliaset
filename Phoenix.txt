@@ -1,0 +1,4 @@
+zn + 1 = zn2 + Re(c) + Im(c) * zn - 1
+
+spiral fractal
+dragon fractal
